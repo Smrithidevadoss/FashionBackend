@@ -1,0 +1,14 @@
+com\niit\config\DBconfig.class
+com\niit\model\Product.class
+com\niit\DAO\CategoryDAOImpl.class
+com\niit\model\Supplier.class
+com\niit\DAO\ProductDAOImpl.class
+com\niit\DAO\ProductDAO.class
+com\niit\FashionBackend\App.class
+com\niit\DAO\SupplierDAO.class
+com\niit\DAO\CartDAO.class
+com\niit\DAO\SupplierDAOImpl.class
+com\niit\model\Category.class
+com\niit\DAO\CartDAOImpl.class
+com\niit\DAO\CategoryDAO.class
+com\niit\model\Cart.class
